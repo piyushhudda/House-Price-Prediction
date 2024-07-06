@@ -111,7 +111,7 @@ In this project, we experiment with various regression models including:
 - Decision Tree Regression
 - Random Forest Regression
 
-The final model's performance is evaluated based on metrics such as Mean Absolute Error (MAE), and R-squared (R²).
+The final model's performance is evaluated based on metrics such as Mean Absolute Error (MAE), and R-squared (R²)
 
 ## Results
 
